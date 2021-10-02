@@ -13,6 +13,7 @@ View The Project: https://m074med.github.io/Simple_ReactJS_Weather_App/
 #### My Technical Skills:
 ######  -Python
 ######  -Django
+######  -MySQL
 ######  -oop
 ######  -Web Scraping (with Python Beautiful Soup)
 ######  -HTML
