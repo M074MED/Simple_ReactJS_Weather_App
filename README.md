@@ -7,12 +7,13 @@ View The Project: https://m074med.github.io/Simple_ReactJS_Weather_App/
 ### About Me:
 ###### Hello,
 ###### I am Mohammed, I am Junior Django Developer with Front-End basics(HTML, CSS, JavaScript, jQuery, Bootstrap and React JS).
-###### I have one year of experience in Python and I created some projects(Django Library Management System, Bootstrap and jQuery Template, 
+###### I have one year of experience in Python and I created some projects(Django Job Board with API and MySQL DB, Django Library Management System, ReactJS Weather App, Bootstrap and jQuery Template, 
 ###### HTML and CSS and JS Template, and other projects on GitHub),You can see them on My Portfolio: https://m074med.github.io/My_Portfolio/
 
 #### My Technical Skills:
 ######  -Python
 ######  -Django
+######  -Django Rest API Framework
 ######  -MySQL
 ######  -oop
 ######  -Web Scraping (with Python Beautiful Soup)
@@ -24,6 +25,7 @@ View The Project: https://m074med.github.io/Simple_ReactJS_Weather_App/
 ######  -React JS
 ######  -C++
 ######  -Git & GitHub
+######  -JSON
 ######  -Command Line
 ######  -Linux
 
